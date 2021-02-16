@@ -258,12 +258,9 @@ files:
         }
     }
   learner_created: false
-- name: src/tictactoe/igitignore
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/48/stages/256/implement#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: Wed, 10 Feb 2021 11:26:08 UTC
-record: -1
+record: 2
