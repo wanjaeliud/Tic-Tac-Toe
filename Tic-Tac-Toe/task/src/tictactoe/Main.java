@@ -33,6 +33,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter cells: ");
+//        String[] letter = scanner.nextLine().split("");
         String letter = scanner.next();
 
 
